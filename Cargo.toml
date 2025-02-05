@@ -4,7 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-serde = "1.0.216"
-rand = "0.9.0"
-[profile.release]
+# [profile.release]
 # panic = "abort"
